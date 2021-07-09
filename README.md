@@ -9,4 +9,6 @@ Contains additional codecs for MusicBee file converter.
 - neroAacTag
 
 ## Panels File
-- panels.layout
+- default.layout (Default MusicBee skin and panels layout)
+- panels-light.layout (Pre-configured panels using the default skin)
+- panels-dark.layout (Pre-configured panels using MidnightMetro skin)
